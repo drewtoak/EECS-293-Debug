@@ -1,0 +1,2 @@
+This project's purpose is to take a string and check the string to see if it is a syntactically correct chemical formula. 
+It outputs true if the formula is valid and false in all other circumstances
